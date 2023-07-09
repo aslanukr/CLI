@@ -1,4 +1,10 @@
- Домашнє завдання 1
+## Image URL on actions results
+--action="list"   :  https://ibb.co/t4qYVft
+--action="get"    :  https://ibb.co/R63TgnX
+--action="add"    :  https://ibb.co/QJg6c9L
+--action="remove" :  https://ibb.co/1TvMS6S 
+
+# Node.js GoIT Homework 1
 
 ## Крок 1
 
